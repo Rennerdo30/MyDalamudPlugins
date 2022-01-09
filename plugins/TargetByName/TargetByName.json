@@ -1,0 +1,16 @@
+{
+  "Author": "rennerdo30",
+  "Name": "TargetByName",
+  "InternalName": "TargetByName",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "adds /targetbyname command",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "adds /targetbyname command"
+}
