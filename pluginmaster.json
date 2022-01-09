@@ -20,6 +20,29 @@
         "DownloadLinkTesting": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/WebSocket/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/WebSocket/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1641724029"
+        "LastUpdated": "1641724558"
+    },
+    {
+        "Author": "rennerdo30",
+        "Name": "TargetByName",
+        "Punchline": "adds /targetbyname command",
+        "Description": "adds /targetbyname command",
+        "InternalName": "TargetByName",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/TargetByName/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/TargetByName/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/TargetByName/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1641724558"
     }
 ]
