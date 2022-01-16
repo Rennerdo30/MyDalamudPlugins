@@ -1,0 +1,16 @@
+{
+  "Author": "rennerdo30",
+  "Name": "SimpleCompare",
+  "InternalName": "SimpleCompare",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Show simple item comparison",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Show simple item comparison"
+}
