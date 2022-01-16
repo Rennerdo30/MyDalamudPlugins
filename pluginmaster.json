@@ -20,7 +20,30 @@
         "DownloadLinkTesting": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/WebSocket/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/WebSocket/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1641724582"
+        "LastUpdated": "1642299210"
+    },
+    {
+        "Author": "rennerdo30",
+        "Name": "SimpleCompare",
+        "Punchline": "Show simple item comparison",
+        "Description": "Show simple item comparison",
+        "InternalName": "SimpleCompare",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/SimpleCompare/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/SimpleCompare/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/SimpleCompare/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1642299210"
     },
     {
         "Author": "rennerdo30",
@@ -43,6 +66,6 @@
         "DownloadLinkTesting": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/TargetByName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Rennerdo30/MyDalamudPlugins/raw/main/plugins/TargetByName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1641724582"
+        "LastUpdated": "1642299210"
     }
 ]
